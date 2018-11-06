@@ -41,5 +41,5 @@ console.log(number)
 
 
 function inc(n) {
-  return(n += number)
+  return(n += 1
 }
