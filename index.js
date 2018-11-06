@@ -53,3 +53,7 @@ function makeInt(n) {
     parseInt(n)
 )
 }
+
+function makeInt(n)
+  return(
+    parseInt
