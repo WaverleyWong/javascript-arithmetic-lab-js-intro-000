@@ -54,6 +54,8 @@ function makeInt(n) {
 )
 }
 
-function makeInt(n)
+function makeInt(n) {
   return(
-    parseInt
+    parseInt(n, 10)
+)
+}
