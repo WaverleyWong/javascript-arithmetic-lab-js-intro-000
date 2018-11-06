@@ -68,4 +68,3 @@ function preserveDecimal(n) {
   parseFloat(n)
   return(parseInt(n))
 }
-}
