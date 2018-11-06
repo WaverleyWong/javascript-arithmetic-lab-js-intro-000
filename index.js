@@ -65,6 +65,5 @@ function preserveDecimal(n) {
 }
 
 function preserveDecimal(n) {
-  parseFloat(n)
-  return(parseInt(n))
+ return(parseFloat(n))
 }
